@@ -1,0 +1,86 @@
+/* Default css file for jemdoc. */
+
+body {
+	background: #ffffff;
+	font-family: arial, sans-serif;
+	padding-bottom: 0em;
+	margin: 0;
+}
+h1 {
+	color: #306cc7;
+	margin-top: 0.5em;
+  margin-left: 2.5em;
+  margin-right: 4em;
+	padding-bottom: 0.4em;
+	line-height: 1.0;
+	padding-top: 0.5em;
+  font-family: arial, sans-serif;
+  font-size: 250%;
+}
+h2 {
+	color: #306cc7;
+  margin-left: 4em;
+  margin-right: 4em;
+  margin-top: -1.25em;
+	margin-bottom: 0.5em;
+	padding-bottom: 0.4em;
+	line-height: 1.0;
+  font-size: 120%;
+	border-bottom: 8px double #aaaaaa;
+  font-family: arial, sans-serif;
+  font-size: 160%;
+}
+h3 {
+	color: #306cc7;
+	margin-top: 0.5em;
+  margin-left: 4em;
+  margin-right: 4em;
+	margin-bottom: 0.5em;
+	padding-bottom: 0.4em;
+	line-height: 1.0;
+	padding-top: 0.5em;
+  font-size: 120%;
+	border-bottom: 1px double #aaaaaa;
+  font-family: arial, sans-serif;
+  font-size: 160%;
+}
+h4 {
+  margin-left: 6em;
+  margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	padding-bottom: 0.4em;
+}
+
+
+p{
+  font-family: arial, sans-serif;
+	margin-top: 0.5em;
+  margin-left: 5em;
+  margin-right: 15em;
+	margin-bottom: 0.5em;
+	padding-bottom: 0.4em;
+	line-height: 1.5;
+	padding-top: 0.5em;
+  font-size: 120%;
+}
+LI {
+  font-family: arial, sans-serif;
+	margin-top: 0.1em;
+  margin-left: 5em;
+	margin-bottom: 0.5em;
+	padding-bottom: 0.4em;
+	line-height: 1.0;
+	padding-top: 0.5em;
+  font-size: 120%;
+}
+footer{
+      align: left
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      margin-left: 6em;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      margin-top: 2em;
+      margin-bottom: 1em;
+}
